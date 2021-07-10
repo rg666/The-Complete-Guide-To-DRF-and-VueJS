@@ -1,0 +1,2 @@
+python -m venv drf_venv
+drf_venv\Scripts\activate.bat
